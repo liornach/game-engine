@@ -8,7 +8,7 @@
 
 static const int SUCCESS_STATUS = 0;
 static const char *FBDEV = "/dev/fb0";
-static const FBDEV_OPEN_ERROR = -1;
+static const int FBDEV_OPEN_ERROR = -1;
 
 static int GetFrameBufferFd()
 {
