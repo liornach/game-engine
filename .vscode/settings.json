@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "gwindow.h": "c"
+        "gwindow.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c"
     }
 }
