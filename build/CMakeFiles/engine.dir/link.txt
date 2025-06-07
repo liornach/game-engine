@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/engine.dir/src/main.c.o -o engine  -Wl,-rpath,/home/lior/vulkan_sdk/1.4.313.0/x86_64/lib /home/lior/vulkan_sdk/1.4.313.0/x86_64/lib/libvulkan.so -lglfw 

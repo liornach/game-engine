@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/lior/sources2/game-engine/build",
+  "command": "/usr/bin/cc  -I/home/lior/sources2/game-engine/inc -isystem /home/lior/vulkan_sdk/1.4.313.0/x86_64/include  -o CMakeFiles/engine.dir/src/main.c.o -c /home/lior/sources2/game-engine/src/main.c",
+  "file": "/home/lior/sources2/game-engine/src/main.c",
+  "output": "CMakeFiles/engine.dir/src/main.c.o"
+}
+]
